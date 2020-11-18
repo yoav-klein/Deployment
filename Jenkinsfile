@@ -1,2 +1,4 @@
-checkout scm
-deployment_script()
+node {
+  checkout scm
+  deployment_script()
+}
