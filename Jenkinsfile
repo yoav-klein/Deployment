@@ -1,2 +1,2 @@
-checkout_scm
+checkout scm
 deployment_script()
