@@ -1,7 +1,7 @@
 
 def call() {
 	
-	config.each { file ->
+	config.files_to_upload.each { file ->
 		 println file	
 	}
 	
